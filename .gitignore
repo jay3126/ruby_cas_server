@@ -18,4 +18,4 @@ resources/dev
 .bundle
 .vagrant
 Vagrantfile
-Gemfile.lock
+.rvmrc
